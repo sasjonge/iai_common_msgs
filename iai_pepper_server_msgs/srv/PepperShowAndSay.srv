@@ -1,0 +1,4 @@
+string message
+string url_to_picture
+---
+bool ok
